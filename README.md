@@ -4,8 +4,8 @@ There are 3 functions: ```createScreen()```, ```createTriangle()```, and ```rend
 ```createScreen()``` is used to create a 2d array of empty (black) pixels. There are 2 parameters: the width of the screen (x) and height of the screen (y). It returns a variable, which is the screen it created. It should be used like this:
 ``` python
 import RenderTriangleModule
-screenSizeX = 10
-screenSizeY = 10
+screenSizeX = 7
+screenSizeY = 7
 emptyScreen = RenderTriangle(screenSizeX, screenSizeY)
 ```
 This code will not print anything. The variable ```screen``` is for other functions to use. In this screen, [0, 0] is the top left corner of the screen. The positive x direction is right, and the positive y direction is down.
