@@ -28,6 +28,6 @@ $$ w_B (B_x-A_x) = P_x - A_x - w_C (C_x-A_x)$$
 
 $$ w_B = \frac {P_x - A_x - w_C (C_x-A_x)} {B_x-A_x} $$
 
-Then, the fraction can be substituted into the y-position equation, replacing $w_B$.
+Then, the fraction can be substituted into the y-position equation, replacing $w_B$. This leaves $w_C$ as the only unknown variable.
 
 DO THE MATH <!!!>
